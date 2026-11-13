@@ -6,6 +6,14 @@ A simple DIY Bluetooth speaker built using a **PAM8403 amplifier**, **Bluetooth 
 
 ---
 
+## 🎬 Demo Video
+
+https://github.com/dipanr705-12/bluetooth-speaker/raw/main/demo.mp4
+
+> 🔊 Watch the speaker in action — Bluetooth connected and playing audio via Type-C power!
+
+---
+
 ## 📸 Project Photos
 
 ### Components Used
